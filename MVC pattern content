@@ -1,0 +1,2 @@
+MVC란 Model,View,Controller를 뜻하는 용어로 개발 형태의 일종 
+Model은 데이터베이스와의 관계를 담당함 클라이언트의 요청에서 필요한 자료를 데이터베이스로부터 추출하거나, 수정하여 Controller로 전달 
